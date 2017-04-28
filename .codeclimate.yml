@@ -31,3 +31,7 @@ exclude_paths:
 - resources/assets/sass/vendor/*
 - yarn.lock
 - gulpfile.js
+ratings:
+  paths:
+  - "**.php"
+  - "**.js"
